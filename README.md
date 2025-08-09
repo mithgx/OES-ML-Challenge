@@ -48,5 +48,6 @@ Each record includes:
 - ✅ Achieved 92% classification accuracy across 4 operational states.  
 - ⏱️ Reduced data cleaning and processing time by 60%.  
 - 📉 Cut manual fleet monitoring effort by 80%.  
-- ⚙️ Pipeline handles 1M+ records with optimized performance.
+- ⚙️ Pipeline handles 1M+ records with optimized performance
+  
 
